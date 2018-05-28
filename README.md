@@ -61,22 +61,21 @@ EMSK开发板的PMOD接口数量非常多，如表1所示ARC与各模块的连�
 |ARC接口|	设备名称|	设备型号|	连接方式|
 |---|--|---|---|
 |PMOD3[4:1] PMOD4[4:1]	|直流电机\*2    |	L298N|	GPIO（PORTC[19:16]）|
-|PMOD6[4:1]|	 UWB模块|	DWM1000	|
-|PMOD2[4:3]|	温度传感器模块	|TCN75	|
+|PMOD6[4:1]|	 UWB模块|	DWM1000	|SPI（CS0）|
+|PMOD2[4:3]|	温度传感器模块	|TCN75	|I2C|
 |PMOD5[10]	|蜂鸣器模块	|无源蜂鸣器	|GPIO（PORTA[27]）|
 |PMOD5[9:7] PMOD6[9:7]	|超声波测距模块|	HC-SR04|	GPIO（PORTA[26:24]）GPIO（PORTA[30:28:]）|
 
 
 <h2 id='3'>User manual
 	
-<h3 id='3.1'>Before Running This Application
-	
-<h3 id='3.2'>Run This Application
-	
-<h4 id='3.2.1'>Makefile
-	
-<h4 id='3.2.2'>Main Entry
-	
-<h4 id='3.2.3'>Driver
-<h4 id='3.2.4'>Function Module
+### <h3 id='3.1'>Before Running This Application
+
+
+
+- Add this project to workspace
+- Build project
+- Run this application
+
+
 
