@@ -41,18 +41,21 @@
 <h2 id='2'> HW/SW Setup
 
 <h3 id='2.1'>Required Hardware
-A.	EMSK开发板（主控板）
-B.	蜂鸣器
-C.	UWB通信模块
-D.	超声波测距模块
-E.	温度传感器模块
-F.	锂电池
+
+- EMSK开发板（主控板）
+- 蜂鸣器
+- UWB通信模块
+- 超声波测距模块
+- 温度传感器模块
+- 锂电池
 
 <h3 id='2.2'>Required Software
-A.	参考软件包——embARC 201709
-B.	开发工具及编译工具——GNU Toolchain for ARC Processors,2017.09
+
+- 参考软件包——embARC 201709
+- 开发工具及编译工具——GNU Toolchain for ARC Processors,2017.09
 
 <h3 id='2.3'>Hardware Connection
+
 EMSK开发板的PMOD接口数量非常多，如表1所示ARC与各模块的连接方式所示，可在本设计中，两个直流电机，过GPIO接口与ARC EMSK开发板相连，实现数据的采集和返回。
 
 |ARC接口|	设备名称|	设备型号|	连接方式|
