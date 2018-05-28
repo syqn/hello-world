@@ -42,13 +42,19 @@
 
 ### <span id='2.2'>Required Software
 
-<h3 id='2.3'>Hardware Connection
+### <span id='2.3'>Hardware Connection
 
-<h2 id='3'>User manual
-<h3 id='3.1'>Before Running This Application
-<h3 id='3.2'>Run This Application
-<h4 id='3.2.1'>Makefile
-<h4 id='3.2.2'>Main Entry
-<h4 id='3.2.3'>Driver
-<h4 id='3.2.4'>Function Module
+## <span id='3'>User manual
+	
+### <span id='3.1'>Before Running This Application
+	
+### <span id='3.2'>Run This Application
+	
+#### <span id='3.2.1'>Makefile
+	
+#### <span id='3.2.2'>Main Entry
+	
+#### <span id='3.2.3'>Driver
+	
+#### <span id='3.2.4'>Function Module
 
