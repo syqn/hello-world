@@ -18,7 +18,7 @@
 		- [Function Module](#3.2.4)
 
 
-<h2 id='1'> Introduction 
+## <h2 id='1'> Introduction 
 
 
 **“”智能行李箱**
@@ -40,7 +40,7 @@
 
 <h2 id='2'> HW/SW Setup
 
-<h3 id='2.1'>Required Hardware
+### <h3 id='2.1'>Required Hardware
 
 - EMSK开发板（主控板）
 - 蜂鸣器
@@ -49,12 +49,12 @@
 - 温度传感器模块
 - 锂电池
 
-<h3 id='2.2'>Required Software
+### <h3 id='2.2'>Required Software
 
 - 参考软件包——embARC 201709
 - 开发工具及编译工具——GNU Toolchain for ARC Processors,2017.09
 
-<h3 id='2.3'>Hardware Connection
+### <h3 id='2.3'>Hardware Connection
 
 EMSK开发板的PMOD接口数量非常多，如表1所示ARC与各模块的连接方式所示，可在本设计中，两个直流电机，过GPIO接口与ARC EMSK开发板相连，实现数据的采集和返回。
 
